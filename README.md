@@ -38,7 +38,8 @@ GEMINI_API_KEY=your_api_key_here
 ```Bash
 npm run dev
 ```
-##👥 Team & Contributions
+##👥 Team & Contributions:
+
 Deepak Kr Singh (Full-Stack & AI Integration): Developed the scalable web platform using React.js and Node.js. Integrated Google Gemini conversational AI APIs for the intelligent chatbot, and implemented backend APIs for wellness tracking, mental health assessments, and gamified engagement features.
 
 Deepika Kashyap (Product Strategy, Localization & UX): Led the localized accessibility strategy for rural and semi-urban users. Strategized and implemented culturally relevant Hindi branding ("Chaitanya") over formal English naming conventions to maximize end-user adoption, and directed the prototype demo presentation.
